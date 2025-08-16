@@ -45,7 +45,7 @@ miniapp-ia/
 ### 1️⃣ Clonar repositorio
 ```bash
 git clone https://github.com/jhonnyso2000/MiniApp-Notas-Feedback-IA.git
-cd miniapp-ia
+cd MiniApp-Notas-Feedback-IA
 ```
 
 ### 2️⃣ Instalar dependencias del frontend
